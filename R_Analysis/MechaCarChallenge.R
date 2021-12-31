@@ -12,3 +12,11 @@ total_summary <- SuspenCoil %>% summarize(mean(PSI), median(PSI), var(PSI), sd(P
 total_summary
 
 lot_summary <- SuspenCoil %>% group_by(Manufacturing_Lot) %>% summarize(mean(PSI), median(PSI), var(PSI), sd(PSI))
+
+t.test(SuspenCoil$PSI,mu=1500)
+
+t.test(SuspenCoil$PSI, SuspenCoil$Manufacturing_Lot=='Lot1',mu=1500)
+
+t.test(SuspenCoil$PSI, SuspenCoil$Manufacturing_Lot=='Lot2',mu=1500)
+
+t.test(SuspenCoil$PSI, SuspenCoil$Manufacturing_Lot=='Lot3',mu=1500)
