@@ -66,9 +66,9 @@ Using our statistical capabilities, we could ideally provide a study to show to 
 
 We could create a one sample t-test to see how MechaCar cars compare to other car brands in their safety ratings.
 
--Our null hypothesis would be that there is no significant difference in safety ratings between MechaCar cars and all cars on the dealer's lot.
+- Our null hypothesis would be that there is no significant difference in safety ratings between MechaCar cars and all cars on the dealer's lot.
 
--Our alternative hypothesis would be that there is a significant difference in safety ratings between MechaCar cars and all cars on the dealer's lot.
+- Our alternative hypothesis would be that there is a significant difference in safety ratings between MechaCar cars and all cars on the dealer's lot.
 
 We would use a t-test in order to bring our attention to any disparity in MechaCar protoype safety ratings relative to the entire dealership's car population's safety ratings. If a p-level below 0.025 were observed, we'd be aware that MechaCar cars either have extremely poor safety ratings or extremely high ones, depending which end of the tail our data lies in.
 
