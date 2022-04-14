@@ -1,7 +1,7 @@
 # MechaCar_Statistical_Analysis
 
 ## Project Overview
-The purpose of this analysis is to assist a car dealership's data analytics team in streamlining their decision-making based on sound statics and statistical reasoning when deciding which MechaCar brand cars to populate their dealership lots with. The data analytics team is in charge of retrospective analysis of historical data and analytical verification and validation of current automotive specifications, as well as study design of future product testing. 
+The purpose of this analysis is to assist a car dealership's data analytics team in streamlining their decision-making based on sound statistics and statistical reasoning when deciding which MechaCar brand cars to populate their dealership lots with. The data analytics team is in charge of retrospective analysis of historical data and analytical verification and validation of current automotive specifications, as well as study design of future product testing. 
 
 The dealership's executive team recognizes that the most successful automobile launches utilize data analytics in every decision-making process.
 
